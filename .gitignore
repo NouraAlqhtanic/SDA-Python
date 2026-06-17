@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 resume_evaluator.db
 .vscode/
+.env
